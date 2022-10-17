@@ -1,3 +1,9 @@
+# Building a Portfolio
+I am using tech2 etc.'s [React Portfolio Website Tutorial From Scratch | Responsive Portfolio Website Using React JS](https://youtu.be/0h2b4ftbZcU) as a guide to build a portfolio of my development work.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
