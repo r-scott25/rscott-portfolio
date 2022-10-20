@@ -2,7 +2,7 @@ import "./FooterStyles.css";
 
 
 import React from "react";
-import { FaHome, FaPhone, FaMailBulk, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { FaHome, FaPhone, FaMailBulk, FaLinkedin, FaTwitter, FaGithub } from "react-icons/fa";
 
 const footer = () => {
   return (
@@ -28,6 +28,7 @@ const footer = () => {
             <p>I am new to web development and am excited <br></br> to learn more about development and design.</p>
             <div className="social">
         <FaLinkedin size={25} style={{ color:"#A9BA9D", marginRight:"1rem" }}/>
+        <FaGithub size={25} style={{ color:"#A9BA9D", marginRight:"1rem" }}/>
         <FaTwitter size={25} style={{ color:"#A9BA9D", marginRight:"1rem" }}/>
         </div>
         </div>
