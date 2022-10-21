@@ -9,7 +9,7 @@ const ProjectCardData = [
        title: "Adventure Outdoors",
        text: "Adventure Outdoors is an outdoor gear rental website that my group and I created as a capstone project while enrolled in LaunchCode's Liftoff program.",
        view: "url.com",
-       source: "https://github.com/r-scott25/AdventureOutdoors",
+       source: "https://github.com/r-scott25/AdventureOutdoors.git",
     },
    //  {
    //      imgsrc: pro2, 
