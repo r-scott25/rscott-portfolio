@@ -1,6 +1,6 @@
 import "./FooterStyles.css";
 
-
+import { Link } from "react-router-dom";
 import React from "react";
 import { FaHome, FaPhone, FaMailBulk, FaLinkedin, FaTwitter, FaGithub } from "react-icons/fa";
 
@@ -27,8 +27,12 @@ const footer = () => {
             <p>Hi! My name is Rachel Scott.</p>
             <p>I am new to web development and am excited <br></br> to learn more about development and design.</p>
             <div className="social">
+        <a href={`https://www.linkedin.com/in/rachelscottkc/`}>
         <FaLinkedin size={25} style={{ color:"#A9BA9D", marginRight:"1rem" }}/>
+          </a>    
+        <a href="https://github.com/r-scott25">
         <FaGithub size={25} style={{ color:"#A9BA9D", marginRight:"1rem" }}/>
+        </a>
         </div>
         </div>
         </div>
