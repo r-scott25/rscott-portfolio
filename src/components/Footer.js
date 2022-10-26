@@ -29,7 +29,6 @@ const footer = () => {
             <div className="social">
         <FaLinkedin size={25} style={{ color:"#A9BA9D", marginRight:"1rem" }}/>
         <FaGithub size={25} style={{ color:"#A9BA9D", marginRight:"1rem" }}/>
-        <FaTwitter size={25} style={{ color:"#A9BA9D", marginRight:"1rem" }}/>
         </div>
         </div>
         </div>
