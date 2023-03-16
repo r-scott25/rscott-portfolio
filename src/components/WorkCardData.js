@@ -2,9 +2,19 @@ import AO2 from "../assets/AO2.png";
 import LuckyShrubHome from "../assets/LuckyShrubHome.png";
 import LuckyShrub from "../assets/LuckyShrub.png";
 import PetesPortfolio from "../assets/PetesPortfolio.png";
+import LittleLemonReservation from "../assets/LittleLemonReservation.png";
 
 
 const ProjectCardData = [
+
+   {
+       imgsrc:LittleLemonReservation,
+       title: "Little Lemon Reservation",
+       text: "In this project for Meta's UX/UI course, I completed the UX/UI design process to create an interactive prototype of a reservation feature for Little Lemon Restaurant.",
+       view: "https://www.figma.com/proto/JEAthChh8VvmMYwDK2t7PU/Little-Lemon-Table-Reservation?page-id=22%3A1924&node-id=22-2521&viewport=1251%2C1155%2C0.55&scaling=scale-down&starting-point-node-id=22%3A2521",
+       source: "https://www.figma.com/file/JEAthChh8VvmMYwDK2t7PU/Little-Lemon-Table-Reservation?node-id=0%3A1&t=r296CxyP5PsQuumr-1",
+    },
+
 
   {
     imgsrc: PetesPortfolio,
